@@ -27,7 +27,7 @@ O processo desenvolvido também reconhece o número de páginas de anúncios e e
 ### **dataset.csv**
 
 Base de dados no formato .csv gerada após tratamento referente ao scraping do site Zap Imóveis.
-Este arquivo contém xxx registros (linhas) de imóveis e xxx colunas.
+Este arquivo contém 8.328 registros (linhas) de imóveis e 13 colunas.
 
 ### **dashboard.py** 
 
